@@ -126,6 +126,3 @@ The dataset contains information related to:
 
 Raviteja Singavarapu
 
-# Test
-
-![Executive Dashboard](Executive Dashboard.png)
