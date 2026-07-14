@@ -63,7 +63,7 @@ Provides insights into product performance and seller distribution.
 - Orders by Seller State
 - Average Freight Cost by Product Category
 
-![Product & Seller Analysis](Product & Seller Analysis.png)
+![Product & Seller Analysis](https://github.com/ravi1638/brazilian-ecommerce-powerbi-dashboard/blob/147d19061fe4045e033eb1a878868ecc526d6391/Product%20%26%20Seller%20Analysis.png)
 ---
 
 ### Order & Delivery Analysis
