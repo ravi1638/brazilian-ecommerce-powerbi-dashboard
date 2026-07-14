@@ -122,7 +122,7 @@ The dataset contains information related to:
 - Business Insight Generation
 ---
 
-## 👤 Developed By
+## Developed By
 
 Raviteja Singavarapu
 
