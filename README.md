@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an interactive Power BI dashboard built using the Olist Brazilian E-Commerce dataset. The dashboard provides business insights into sales performance, customer behavior, product & seller performance, and order delivery operations.
+This project showcases an interactive Power BI dashboard built using the Olist Brazilian E-Commerce dataset. It provides actionable insights into sales performance, customer behavior, product performance, seller performance, and delivery operations through interactive visualizations and key performance indicators (KPIs).
 ---
 
 ## Business Objective
