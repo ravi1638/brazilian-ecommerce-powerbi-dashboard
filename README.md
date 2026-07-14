@@ -77,7 +77,7 @@ Analyzes order fulfillment, delivery performance, and payment methods.
 - Orders by Payment Type
 - Average Delivery Time by State
 
-![Order & Delivery Analysis](Order & Delivery Analysis.png)
+![Order & Delivery Analysis](https://github.com/ravi1638/brazilian-ecommerce-powerbi-dashboard/blob/d331bed4f25823ea54b19c4564cef7978c768424/Order%20%26%20Delivery%20Analysis.png)
 ---
 
 ## Key Performance Indicators (KPIs)
