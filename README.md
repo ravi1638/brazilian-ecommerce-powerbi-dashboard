@@ -47,7 +47,7 @@ Analyzes customer behavior, acquisition, spending patterns, and geographic distr
 - Customer Acquisition Trend
 - Top Cities by Customers
 - Revenue by Customer State
-- Customer Distribution Map
+- Customer Distribution
 
 ![Customer Analysis](https://github.com/ravi1638/brazilian-ecommerce-powerbi-dashboard/blob/23746e10a2ad460f8e8ec94a7e33c9120e916757/Customer%20Analysis.png)
 ---
