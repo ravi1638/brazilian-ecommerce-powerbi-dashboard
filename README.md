@@ -33,7 +33,7 @@ To analyze e-commerce business performance by answering key business questions r
 - Average Review Score
 - Monthly Order Trend
 
-![Executive Dashboard](https://github.com/ravi1638/brazilian-ecommerce-powerbi-dashboard/blob/d28ee9011a53014ffa02301171e4faaac8fe15c4/Executive%20Dashboard.png)
+![Executive Dashboard](https://github.com/ravi1638/brazilian-ecommerce-powerbi-dashboard/blob/63c68998843e5e4f728d3b300f61b59b953741d2/Executive-Dashboard.png)
 ---
 
 ### Customer Analysis
